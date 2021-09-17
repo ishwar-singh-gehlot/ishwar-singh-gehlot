@@ -1,4 +1,4 @@
-# Hi there 👋 I'm <a href="https://github.com/ishwar-singh-gehlot">ishwar-singh-gehlot</a>
+# Hi there 👋 I'm <a href="https://github.com/ishwar-singh-gehlot">Ishwar Singh Gehlot</a>
 <a href="https://twitter.com/IshwarS10131942">
   <img align="left" alt=" Ishwar Singh Gehlot | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
