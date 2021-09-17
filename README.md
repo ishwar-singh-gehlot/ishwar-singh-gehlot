@@ -13,7 +13,7 @@
 
 Hi, I'm Ishwar Singh Gehlot, a PHP Web Developer , Drupal Programmer , React js Developer  🚀 from Rajasthan, India.
 
-Besides Developing staff, I like to Play Badminton:Badminton:, enjoy listening music 🎧 and travelling 🏝️ 
+Besides Developing stuff, I like to Play Badminton:Badminton:, enjoy listening music 🎧 and travelling 🏝️ 
 
 - 📫 Reach me: <a href="mailto:gehlotishwarsingh7@gmail.com">gehlotishwarsingh7@gmail.com</a>
 
